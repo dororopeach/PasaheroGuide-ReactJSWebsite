@@ -1,8 +1,6 @@
-PasaheroGuide
-==
+# PasaheroGuide
 
-One stop site for your commuting needs!
---
+#### One stop site for your commuting needs!
 
 As a *probinsyana*, I always feel anxious whenever I travel from my province to the Metro. I fear that I might take the wrong bus or get off the wrong stop or worse, get lost in the city and never reach my destination.
 
