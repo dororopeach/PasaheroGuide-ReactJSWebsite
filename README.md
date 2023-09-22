@@ -1,3 +1,5 @@
+{::options auto_ids="false" /}
+
 PasaheroGuide
 ==
 
